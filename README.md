@@ -6,7 +6,7 @@ Welcome to the **study-notes** repository! This is a personal space where I orga
 
 The repository is structured to keep everything organized and accessible:
 
-
+```
 📁 study-notes
 │
 ├── 📁 courses
@@ -46,6 +46,7 @@ The repository is structured to keep everything organized and accessible:
 │   └── 📄 resource-index.md  # Index of all resources
 │
 └── README.md  # Main overview of the repository
+```
 
 ### Courses 📖
 The `courses` directory contains materials related to the online courses I am currently studying or have completed. Each course has its own folder with subfolders for lectures, assignments, and projects.
